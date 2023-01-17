@@ -9,16 +9,16 @@ namespace Library
     interface IPersons
     {
         public int ID { get; set; }
-        public string Ad { get; set; }
+        public string Name { get; set; }
        
 
         void Show();
     }
-    //interface SoyAd { 
+    //interface SurName { 
 
-    //    void soyad()
+    //    void surname()
     //    {
-    //        Console.WriteLine("soyad giriniz:");
+    //        Console.WriteLine("enter surname:");
     //    }
     //}
 
