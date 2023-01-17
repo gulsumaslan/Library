@@ -8,8 +8,8 @@ namespace Library
 {
     class BookType
     {
-        public int TurID { get; set; }
-        public string TurAD { get; set; }
+        public int GenusID { get; set; }
+        public string GenusName { get; set; }
 
     }
 
