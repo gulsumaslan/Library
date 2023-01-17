@@ -8,14 +8,14 @@ namespace Library
 {
     class Publisher:Writers
     {
-        public int YayineviID { get; set; }
-        public string YayineviAd { get; set; }
+        public int PublisherID { get; set; }
+        public string PublisherAd { get; set; }
 
 
         //public void Add()
         //{
-        //    Console.WriteLine(YazarID);
-        //    Console.WriteLine(YazarAD);
+        //    Console.WriteLine(AuthorID);
+        //    Console.WriteLine(AuthorName);
         //}
     }
 
