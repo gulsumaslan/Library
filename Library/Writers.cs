@@ -8,8 +8,8 @@ namespace Library
 {
     class Writers
     {
-        public int YazarID { get; set; }
-        public string YazarAD { get; set; }
+        public int AuthorID { get; set; }
+        public string AuthorName { get; set; }
 
     }
 }
